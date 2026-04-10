@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'eth_mii_clk'
+Slack : -13.285
+TNS   : -886.881
+
+Type  : Slow 1200mV 85C Model Setup 'eth_rmii_clk'
+Slack : -1.288
+TNS   : -7.997
+
+Type  : Slow 1200mV 85C Model Hold 'eth_mii_clk'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'eth_rmii_clk'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'eth_mii_clk'
+Slack : -3.000
+TNS   : -306.348
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'eth_rmii_clk'
+Slack : -3.000
+TNS   : -19.357
+
+Type  : Slow 1200mV 0C Model Setup 'eth_mii_clk'
+Slack : -12.098
+TNS   : -820.752
+
+Type  : Slow 1200mV 0C Model Setup 'eth_rmii_clk'
+Slack : -1.157
+TNS   : -6.895
+
+Type  : Slow 1200mV 0C Model Hold 'eth_mii_clk'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'eth_rmii_clk'
+Slack : 0.420
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'eth_mii_clk'
+Slack : -3.000
+TNS   : -306.348
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'eth_rmii_clk'
+Slack : -3.000
+TNS   : -19.357
+
+Type  : Fast 1200mV 0C Model Setup 'eth_mii_clk'
+Slack : -5.108
+TNS   : -271.829
+
+Type  : Fast 1200mV 0C Model Setup 'eth_rmii_clk'
+Slack : -0.661
+TNS   : -1.322
+
+Type  : Fast 1200mV 0C Model Hold 'eth_mii_clk'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'eth_rmii_clk'
+Slack : 0.192
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'eth_mii_clk'
+Slack : -3.000
+TNS   : -220.223
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'eth_rmii_clk'
+Slack : -3.000
+TNS   : -15.073
+
+------------------------------------------------------------

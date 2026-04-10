@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr 09 22:33:42 2026
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : eth_imp
+Top-level Entity Name : eth_udp_rmii
+Family : Cyclone IV E
+Total logic elements : 627
+    Total combinational functions : 565
+    Dedicated logic registers : 215
+Total registers : 215
+Total pins : 111
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
